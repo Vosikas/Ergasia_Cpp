@@ -1,0 +1,11 @@
+Tower png:https://pngtree.com/freepng/lowpoly-cartoon-castle-transparent-perspective-view_9236972.html
+Defensive Shield:https://pngtree.com/freepng/defensive-shield_6712093.html
+Soldier:https://www.pngwing.com/en/free-png-ypezy
+Tank Soldier:https://www.pngwing.com/en/free-png-ndbxb
+Range Soldier:https://www.pngwing.com/en/free-png-ycmcf
+Background Picture:https://www.visitstockholm.com/media/images/vadersolstavlan_1920x1080.width-768.jpg
+
+Ο σύνδεσμος για την λήψη του φακέλου assets είναι :
+https://drive.google.com/drive/folders/1Tz4_K6rLApp2nXN6w_XLpMFEE9v6BFCp?usp=drive_link
+
+Για να λειτουργήσουν οι είκονες κανονικά,ο φάκελος πρέπει να τοποθετηθεί,μέσα στον φάκελο MyGame
